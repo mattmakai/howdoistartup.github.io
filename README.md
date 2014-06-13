@@ -1,3 +1,5 @@
+Statically hosted website for 
+[How Do I Start Up?](http://www.howdoistartup.com/).
 
-Statically hosted work-in-progress website with startup articles I've
-collected over the past several years.
+Check out the [contributing page](/CONTRIBUTING.md) if you're interested
+in fixing typos and/or adding content.
