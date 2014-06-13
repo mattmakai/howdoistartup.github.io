@@ -1,0 +1,23 @@
+<div class="col-md-offset-1 col-md-3" id="sidebar">
+  <div class="panel panel-success" style="border: 1px solid #999;">
+      <div class="panel-heading"><h4 class="panel-head">{% for p in pages|sort(attribute='sort-order') %}{% if page and p.slug == page.slug %}{{ p.title }}{% endif %}{% endfor %}{% if not page %}How Do I Start Up?{% endif %}</h4></div>
+      <div class="panel-body">
+          <a href="http://twitter.com/mattmakai">Matt Makai</a> built
+          this site with assistance from community pull requests. On GitHub 
+          you can <a href="https://github.com/makaimc">follow Matt</a>
+          to see the daily changes.
+      </div>
+  </div>
+  {% if page %}
+  <div class="panel panel-success">
+      <div class="panel-heading">
+        <h3 class="panel-head">Table of Contents</h3>
+      </div>
+      <div class="list-group">
+          {% for p in pages|sort(attribute='sort-order') %}
+              <a href="/{{ p.slug }}.html" class="list-group-item smaller-item {% if page and p.slug == page.slug %}active{% endif %}" style="border: 1px solid #999;">{{ p.title }}</a>
+          {% endfor %}
+      </div>
+  </div>
+  {% endif %}
+</div>
