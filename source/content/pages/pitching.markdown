@@ -70,3 +70,16 @@ questions:
   1. Does it look like your business/product can actually scale? VCs want
      to invest in businesses that grow to $100M+ within five years.
 
+
+## The lighter side
+Pitching to VCs is important for some businesses that need initial 
+investment to rapidly grow. However, the game can get ridiculous if you're
+not pitching to people capable of understanding the magnitude of a new 
+technology or industry. 
+
+### [Nikola Tesla Pitching Silicon Valley VCs](https://www.youtube.com/watch?v=zngK13FMgXM)
+A light hearted but slightly damning take on what would happen if 
+[Nikola Tesla](http://en.wikipedia.org/wiki/Nikola_Tesla) tried to pitch
+wireless energy to today's Silicon Valley VCs.
+
+
