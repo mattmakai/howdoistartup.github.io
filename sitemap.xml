@@ -14,5 +14,9 @@
     <loc>http://www.fullstackpython.com/san-francisco-ca.html</loc>
     <priority>1.0</priority>
   </url>
+  <url>
+    <loc>http://www.fullstackpython.com/storytelling.html</loc>
+    <priority>1.0</priority>
+  </url>
 
 </urlset>
