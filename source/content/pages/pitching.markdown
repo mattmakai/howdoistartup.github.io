@@ -55,6 +55,13 @@ An opinionated but valuable perspective that hooking the audience with a
 clear differentiated hook is the best way to start a pitch.
 
 
+### [Get A Pitch Deck](http://www.getapitchdeck.com/demo/)
+A template that has a reasonable outline for topics that should be covered
+in a business pitch. However, it's important to select topics and order them
+according to your own business and not just follow along with the standard
+boilerplate.
+
+
 ## Improving your pitch
 The job is not done once you have the pitch deck created. Pitch, get feedback,
 tweak and iterate.
