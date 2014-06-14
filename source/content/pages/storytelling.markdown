@@ -9,6 +9,20 @@ These storytelling posts will help you figure out what that story's content
 should be. Eventually you can distill the story into a shorter but still
 powerful form to tell it as a [pitch](/pitching.html).
 
+
+## Why stories are critical to startups
+There's always a new exciting company on the horizon. The ones that stick in
+our minds though are those with a great product and a unique hook for how they
+got to be where they are. 
+
+It's not enough in today's world of constant 
+distractions to "want to change the world." That phrase is now so cliche it'll
+make people ignore you. Instead, tell a fresh, compelling, but realistic story 
+about your company.
+
+### [The Science of Storytelling: Why Telling a Story is the Most Powerful Way to Activate Our Brains](http://lifehacker.com/5965703/the-science-of-storytelling-why-telling-a-story-is-the-most-powerful-way-to-activate-our-brains)
+
+
 ## Ideas for your story
 Coming up with the initial story ideas can be difficult. The following posts
 will help you get over that first hurdle.
