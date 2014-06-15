@@ -21,6 +21,10 @@ make people ignore you. Instead, tell a fresh, compelling, but realistic story
 about your company.
 
 ### [The Science of Storytelling: Why Telling a Story is the Most Powerful Way to Activate Our Brains](http://lifehacker.com/5965703/the-science-of-storytelling-why-telling-a-story-is-the-most-powerful-way-to-activate-our-brains)
+Telling a narrative with events activates parts of the brain called Broca's 
+area and Wernicke's area. Listeners retain stories much better than independent
+bullets of information found on slide decks. A story gives context to otherwise 
+disparate facts.
 
 
 ## Ideas for your story
