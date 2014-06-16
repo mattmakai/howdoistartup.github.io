@@ -3,7 +3,15 @@
 
 
   <url>
+    <loc>http://www.fullstackpython.com/ab-testing.html</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>http://www.fullstackpython.com/acquisition.html</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://www.fullstackpython.com/due-diligence.html</loc>
     <priority>1.0</priority>
   </url>
   <url>
