@@ -15,4 +15,8 @@ be used with some insight into how results change with less data.
 Mailchimp reports on A/B testing from their seven years of experimenting,
 collecting and analyzing results.
 
+### [26 Beautiful Landing Page Designs Critiqued with A/B Testing Tips](http://unbounce.com/landing-page-examples/built-using-unbounce/landing-page-designs/)
 
+### [Make Your A/B Testing Create Results – Not Statistics](http://blog.kissmetrics.com/ab-testing-results/)
+
+### [The Most Entertaining Guide to Landing Page Optimization You'll Ever Read](http://moz.com/blog/most-entertaining-guide-to-landing-page-optimization)
